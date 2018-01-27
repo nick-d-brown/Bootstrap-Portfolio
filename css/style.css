@@ -1,0 +1,46 @@
+body {
+    background-image: url(images/gplaypattern/gplaypattern.png);
+    background-size: cover;
+    background-position: center;
+}
+
+div.jumbotron.jumbo-styling {
+    text-align: center;
+    background-image: url(images/stars_on_the_lake.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.about-me {
+    background:rgb(215, 215, 215);
+    width: 655px;
+}
+
+.profile-image { 
+    height: 200px;
+    width: 200px;
+}
+
+.social-media {
+    background:rgb(215, 215, 215);
+    width: 270px;
+}
+
+.social_media_images {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+.social_media_images_altered {
+    height: 45px;
+    width: 45px;
+    padding: 0;
+    margin: 2px;
+}
+
+
+
+
