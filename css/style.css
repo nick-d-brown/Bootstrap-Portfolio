@@ -2,6 +2,7 @@ body {
     background-image: url(images/gplaypattern/gplaypattern.png);
     background-size: cover;
     background-position: center;
+    font-size: 16px;
 }
 
 div.jumbotron.jumbo-styling {
@@ -14,29 +15,50 @@ div.jumbotron.jumbo-styling {
 
 .about-me {
     background:rgb(215, 215, 215);
-    width: 655px;
+    margin: 0% 2%;
+    padding: 0% 3%;
+}
+
+.content-heading {
+
+}
+
+.about-me-head {
+    margin: 5%;
+}
+
+.profile-image-body { 
+    margin: 3% 0%;
+    padding: 0%;
 }
 
 .profile-image { 
-    height: 200px;
-    width: 200px;
+    height: 100%;
+    width: 100%;
+}
+
+.about-me-para-1 {
+    margin: .5% auto;
+}
+
+.main-para-text {
+    margin: .5% auto;   
 }
 
 .social-media {
     background:rgb(215, 215, 215);
-    width: 270px;
+}
+
+.social-media-links_heading {
+
 }
 
 .social_media_images {
-    height: 50px;
-    width: 50px;
     padding: 0;
-    margin: 0;
+    margin: 0% 2%;
 }
 
 .social_media_images_altered {
-    height: 45px;
-    width: 45px;
     padding: 0;
     margin: 2px;
 }
