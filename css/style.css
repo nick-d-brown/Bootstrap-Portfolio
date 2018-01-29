@@ -169,8 +169,21 @@ p.project-description {
 
 /* footer styling start */
 
-.footer-style {
-    background-color: red;
+footer {
+    background-color: #222;
+    color: #8e847b;
+    text-align: center;
+    padding: 5px;
+ 
+}
+
+.copyright-styling {
+    background-color: #222;
+    color: #8e847b;
+    text-align: center;
+    padding: 5px;
+    position: relative;
+    bottom: -220px;
 }
 
 
