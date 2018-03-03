@@ -163,7 +163,7 @@ p.project-description {
     height: 100%;
     width: 90%;
 }
-}
+
 
 /* social media aside styling start */
 
@@ -183,7 +183,7 @@ footer {
     text-align: center;
     padding: 5px;
     position: relative;
-    bottom: -220px;
+    /* bottom: -220px; */
 }
 
 
